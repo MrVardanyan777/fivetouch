@@ -15,6 +15,10 @@ module.exports = {
       },
       backgroundImage: {
         'main-pattern': "url('/images/background-pattern.jpg')",
+        'secondary-pattern': "url('/images/secondary-pattern.jpg')"
+      },
+      fontFamily: {
+        'kalnia': ['Kalnia', 'sans-serif'],
       },
     },
   },
